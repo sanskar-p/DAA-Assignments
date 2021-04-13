@@ -1,7 +1,7 @@
 # DAA Assignments
 
 **Team Members**
-|   Enrollment No.  |   Name   | GithubId |
+|   Enrollment No.  |   Name   | Github username |
 |   --------------  |   ----   | -------- |
 |    IIT2019204  |   Mitta Lekhana Reddy | LekhanaMitta |
 |    IIT2019205  |   Sanskar Patro | sanskar-p | 
@@ -26,7 +26,7 @@ cd DAA-Assignments
 Now, navigate to the directory of the assignment you want to view. Let's take Assignment-5 for example
 
 ```
-cd assignment-5Name
+cd assignment-5
 ```
 To run the code,
 ```
