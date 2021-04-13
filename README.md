@@ -26,7 +26,7 @@ cd DAA-Assignments
 Now, navigate to the directory of the assignment you want to view. Let's take Assignment-5 for example
 
 ```
-cd assignment-5Name
+cd assignment-5
 ```
 To run the code,
 ```
