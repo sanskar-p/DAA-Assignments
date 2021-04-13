@@ -3,9 +3,9 @@
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IIT2019204  |   Mitta Lekhana Reddy | ? |
+|    IIT2019204  |   Mitta Lekhana Reddy | LekhanaMitta |
 |    IIT2019205  |   Sanskar Patro | sanskar-p | 
-|    IIT2019206  |   Aamin Choudhari | ?  |
+|    IIT2019206  |   Aamin Choudhari | aamin03  |
 <br>
 
 **Group No -**  7
