@@ -6,6 +6,7 @@
 |    IIT2019204  |   Mitta Lekhana Reddy | LekhanaMitta |
 |    IIT2019205  |   Sanskar Patro | sanskar-p | 
 |    IIT2019206  |   Aamin Chaudhari | AAMIN03  |
+| - | Md. Meraz | merazlab |
 <br>
 
 **Group No -**  7
