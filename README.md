@@ -33,3 +33,19 @@ To run the code,
 ```
 g++ code.cpp
 ```
+Test case
+Find total pairs
+```
+Test Case-1
+Input:
+3
+Out:
+4
+#--------------------------#
+Test Case-2
+Input:
+5
+Out:
+26
+```
+
