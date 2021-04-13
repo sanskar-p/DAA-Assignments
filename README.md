@@ -33,8 +33,8 @@ To run the code,
 ```
 g++ code.cpp
 ```
-Test case
-Find total pairs
+Test case :-
+"Find total pairs"
 ```
 Test Case-1
 Input:
