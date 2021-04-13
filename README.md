@@ -34,7 +34,7 @@ To run the code,
 g++ code.cpp
 ```
 Test case :-
-### "Find total pairs"
+"Find total pairs"
 ```
 Test Case-1
 Input:
